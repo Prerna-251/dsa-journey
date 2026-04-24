@@ -1,0 +1,16 @@
+# Selection Sort Revision
+
+## What I did
+- Revised selection sort
+- Practiced dry run
+- Recalled code without seeing
+
+## Time Complexity
+- O(n^2) in all cases
+
+## Key Idea
+Find minimum element and swap with current index
+
+## Mistakes / Observations
+- Took time to recall inner loop
+- Need faster dry run
