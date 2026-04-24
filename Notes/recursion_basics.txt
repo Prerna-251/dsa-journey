@@ -1,0 +1,15 @@
+# Recursion Basics
+
+## What I did
+- Learned recursion concept
+- Understood base case and recursive calls
+
+## My Understanding
+Recursion works like function calls stacking on top of each other.
+
+## Mistakes / Confusion
+- Initially forgot base case
+- Got confused with how function returns
+
+## Next Plan
+- Practice basic recursion problems

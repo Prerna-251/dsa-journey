@@ -1,0 +1,12 @@
+# Recursion
+
+## Definition
+Function calling itself
+
+## Key Points
+- Base case is mandatory
+- Stack is used internally
+
+## Common Problems
+- Factorial
+- Fibonacci
